@@ -1,0 +1,14 @@
+ul{
+	padding-right: 50%;
+	display: flex;
+	list-style: none;
+	justify-content: space-around;
+}
+ul>li{
+	cursor: pointer;
+}
+ul>li:hover{
+	-webkit-transform: scale(1.3);
+	-ms-transform: scale(1.3);
+ 	transform: scale(1.3);
+}
