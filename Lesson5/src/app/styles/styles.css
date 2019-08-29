@@ -1,0 +1,8 @@
+.navbar-collapse ul{
+	display: flex;
+	list-style: none;
+}
+.nav-item a:focus{
+	border-bottom: 1px solid  #039a0e;
+	color: #039a0e;
+}
